@@ -1,1 +1,2 @@
-Hi dear Sally and Paul - bug fixed
+Hi dear Sally and Paul
+version 2.0
