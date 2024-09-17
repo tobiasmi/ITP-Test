@@ -1,2 +1,3 @@
 test apaul for conflict1
-sally
+Sally
+paul
